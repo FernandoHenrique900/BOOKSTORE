@@ -15,6 +15,6 @@ Teconologia utilizadas:
 
 https://www.figma.com/design/4ImoQgGgj4djIiD3Thgcec/HTML-e-CSS--responsividade-com-mobile-first-%7C-AluraBooks--Community-?node-id=37-94&p=f&t=genyMGHHT0GBSlQu-0   
 
-Deploy: https://fernandohenrique900.github.io/Bookstore/
+Link: https://fernandohenrique900.github.io/BOOKSTORE/
 
 
